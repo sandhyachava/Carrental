@@ -1,0 +1,17 @@
+Instructions to Perform:
+
+1.    Create a module (.py file) for car rental and import the built-in DateTime module to manage the rental time and billing
+2.    Create a class for renting the cars and define a constructor in it
+3.    Define a method to display the available cars. Additionally, create methods for renting cars on an hourly, daily, and weekly basis, respectively
+4.    Within these methods, ensure that the requested number of cars is both positive and less than the total number of available cars
+5.    Store the rental time of a car in a variable. You can later use this variable in the bill when returning the car
+6.    Define a method that returns the cars based on rental time, rental mode (hourly, daily, or weekly), and the number of cars rented
+7.    Within the return method, perform the following actions: update the inventory stock, calculate the rental period, and generate the final bill
+8.    Create a class for customers and define a constructor in it
+9.    Define methods for requesting the cars and returning them
+10.    Now, create the main project file (.ipynb) next and import the car rental module into it
+11.    Define the main method and create objects for both the car rental and customer classes
+12.    Within the main method, receive the customer's input to choose between displaying car availability, rental modes, or returning the cars
+13.    Utilize the appropriate method for the customer's input and display relevant messages
+14.    Run the main method to start your project
+ 
